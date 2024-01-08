@@ -1,0 +1,11 @@
+
+0
+java:S1220""Move this file to a named package.
+O
+java:S5993"9Change the visibility of this constructor to "protected".(…ÿ©õ
+C
+java:S1068"(Remove this unused "make" private field.(Ïæãùÿÿÿÿ
+D
+java:S1068")Remove this unused "model" private field.(³—öûÿÿÿÿ
+>
+java:S1068"(Remove this unused "year" private field.(¡‚ºð
